@@ -285,12 +285,24 @@ def parse_question_block(qid: str, block_lines):
 def parse_key(k_text: str):
     key = {}
 
-    for raw in k_text.splitlines():
-        line = raw.strip()
-        if not line:
-            continue
+    entry_start_re = re.compile(
+        r"(?=^GED-(?:RLA|MATH|SCI|SOC)\d+-(?:ER|\d{3})\s+[—–-]\s+Correct:)",
+        re.M
+    )
 
-        m = KEY_RE.match(line)
+    blocks = [b.strip() for b in entry_start_re.split(k_text) if b.strip()]
+
+    block_re = re.compile(
+        r"^(GED-(?:RLA|MATH|SCI|SOC)\d+-(?:ER|\d{3}))\s+[—–-]\s+"
+        r"Correct:\s+(.*?)\s+[—–-]\s+"
+        r"(?:(?:Tolerance:\s+(.*?)\s+[—–-]\s+)?)"
+        r"Correct Answer:\s+(.*?)\s+[—–-]\s+"
+        r"Explanation:\s+(.*)$",
+        re.S
+    )
+
+    for block in blocks:
+        m = block_re.match(block)
         if not m:
             continue
 

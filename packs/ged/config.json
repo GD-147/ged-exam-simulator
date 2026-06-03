@@ -20,7 +20,9 @@
       "autoScorableQuestions": 46,
       "essayQuestions": 1,
       "type": "mixed",
-      "examFiles": []
+      "examFiles": [
+        "ged_rla_exam_01.json"
+      ]
     },
     {
       "id": "math",
@@ -29,7 +31,9 @@
       "timeLabel": "Recommended practice time: 115 minutes",
       "examQuestions": 46,
       "type": "mixed",
-      "examFiles": []
+      "examFiles": [
+        "ged_math_exam_01.json"
+      ]
     },
     {
       "id": "science",
@@ -38,7 +42,9 @@
       "timeLabel": "Recommended practice time: 90 minutes",
       "examQuestions": 34,
       "type": "mixed",
-      "examFiles": []
+      "examFiles": [
+        "ged_science_exam_01.json"
+      ]
     },
     {
       "id": "social",
@@ -47,8 +53,27 @@
       "timeLabel": "Recommended practice time: 70 minutes",
       "examQuestions": 35,
       "type": "mixed",
-      "examFiles": []
+      "examFiles": [
+        "ged_social_exam_01.json"
+      ]
     }
   ],
-  "printables": []
+  "printables": [
+    {
+      "label": "GED Math Practice Exam 01",
+      "file": "ged_math_exam_01.pdf"
+    },
+    {
+      "label": "GED RLA Practice Exam 01",
+      "file": "ged_rla_exam_01.pdf"
+    },
+    {
+      "label": "GED Science Practice Exam 01",
+      "file": "ged_science_exam_01.pdf"
+    },
+    {
+      "label": "GED Social Studies Practice Exam 01",
+      "file": "ged_social_exam_01.pdf"
+    }
+  ]
 }
