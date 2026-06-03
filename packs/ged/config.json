@@ -13,7 +13,7 @@
   "sections": [
     {
       "id": "rla",
-      "label": "GED Reasoning Through Language Arts Practice Test",
+      "label": "GED Reasoning Through Language Arts",
       "timeMin": 150,
       "timeLabel": "Recommended practice time: 150 minutes",
       "examQuestions": 47,
@@ -26,7 +26,7 @@
     },
     {
       "id": "math",
-      "label": "GED Mathematical Reasoning Practice Test",
+      "label": "GED Mathematical Reasoning",
       "timeMin": 115,
       "timeLabel": "Recommended practice time: 115 minutes",
       "examQuestions": 46,
@@ -37,7 +37,7 @@
     },
     {
       "id": "science",
-      "label": "GED Science Practice Test",
+      "label": "GED Science",
       "timeMin": 90,
       "timeLabel": "Recommended practice time: 90 minutes",
       "examQuestions": 34,
@@ -48,7 +48,7 @@
     },
     {
       "id": "social",
-      "label": "GED Social Studies Practice Test",
+      "label": "GED Social Studies",
       "timeMin": 70,
       "timeLabel": "Recommended practice time: 70 minutes",
       "examQuestions": 35,
