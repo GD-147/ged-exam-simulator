@@ -1,0 +1,54 @@
+{
+  "examId": "ged",
+  "brandName": "GED Exam Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/ged/assets/logo.png?v=1",
+  "accessPassword": "GEDPREP",
+  "practiceChunkSize": 10,
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "sections": [
+    {
+      "id": "rla",
+      "label": "GED Reasoning Through Language Arts Practice Test",
+      "timeMin": 150,
+      "timeLabel": "Recommended practice time: 150 minutes",
+      "examQuestions": 47,
+      "autoScorableQuestions": 46,
+      "essayQuestions": 1,
+      "type": "mixed",
+      "examFiles": []
+    },
+    {
+      "id": "math",
+      "label": "GED Mathematical Reasoning Practice Test",
+      "timeMin": 115,
+      "timeLabel": "Recommended practice time: 115 minutes",
+      "examQuestions": 46,
+      "type": "mixed",
+      "examFiles": []
+    },
+    {
+      "id": "science",
+      "label": "GED Science Practice Test",
+      "timeMin": 90,
+      "timeLabel": "Recommended practice time: 90 minutes",
+      "examQuestions": 34,
+      "type": "mixed",
+      "examFiles": []
+    },
+    {
+      "id": "social",
+      "label": "GED Social Studies Practice Test",
+      "timeMin": 70,
+      "timeLabel": "Recommended practice time: 70 minutes",
+      "examQuestions": 35,
+      "type": "mixed",
+      "examFiles": []
+    }
+  ],
+  "printables": []
+}

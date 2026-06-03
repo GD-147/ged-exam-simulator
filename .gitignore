@@ -1,0 +1,15 @@
+.git_old/
+.DS_Store
+__pycache__/
+*.pyc
+Exams/
+
+imports/ged_exams/txt/*
+imports/ged_exams/pdf/*
+imports/ged_exams/word/*
+imports/ged_exams/problem_files/*
+
+!imports/ged_exams/txt/.gitkeep
+!imports/ged_exams/pdf/.gitkeep
+!imports/ged_exams/word/.gitkeep
+!imports/ged_exams/problem_files/.gitkeep
