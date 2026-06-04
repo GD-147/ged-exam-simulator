@@ -21,7 +21,16 @@
       "essayQuestions": 1,
       "type": "mixed",
       "examFiles": [
-        "ged_rla_exam_01.json"
+        "ged_rla_exam_01.json",
+        "ged_rla_exam_02.json",
+        "ged_rla_exam_03.json",
+        "ged_rla_exam_04.json",
+        "ged_rla_exam_05.json",
+        "ged_rla_exam_06.json",
+        "ged_rla_exam_07.json",
+        "ged_rla_exam_08.json",
+        "ged_rla_exam_09.json",
+        "ged_rla_exam_10.json"
       ]
     },
     {
@@ -32,7 +41,16 @@
       "examQuestions": 46,
       "type": "mixed",
       "examFiles": [
-        "ged_math_exam_01.json"
+        "ged_math_exam_01.json",
+        "ged_math_exam_02.json",
+        "ged_math_exam_03.json",
+        "ged_math_exam_04.json",
+        "ged_math_exam_05.json",
+        "ged_math_exam_06.json",
+        "ged_math_exam_07.json",
+        "ged_math_exam_08.json",
+        "ged_math_exam_09.json",
+        "ged_math_exam_10.json"
       ]
     },
     {
@@ -43,7 +61,16 @@
       "examQuestions": 34,
       "type": "mixed",
       "examFiles": [
-        "ged_science_exam_01.json"
+        "ged_science_exam_01.json",
+        "ged_science_exam_02.json",
+        "ged_science_exam_03.json",
+        "ged_science_exam_04.json",
+        "ged_science_exam_05.json",
+        "ged_science_exam_06.json",
+        "ged_science_exam_07.json",
+        "ged_science_exam_08.json",
+        "ged_science_exam_09.json",
+        "ged_science_exam_10.json"
       ]
     },
     {
@@ -54,7 +81,16 @@
       "examQuestions": 35,
       "type": "mixed",
       "examFiles": [
-        "ged_social_exam_01.json"
+        "ged_social_exam_01.json",
+        "ged_social_exam_02.json",
+        "ged_social_exam_03.json",
+        "ged_social_exam_04.json",
+        "ged_social_exam_05.json",
+        "ged_social_exam_06.json",
+        "ged_social_exam_07.json",
+        "ged_social_exam_08.json",
+        "ged_social_exam_09.json",
+        "ged_social_exam_10.json"
       ]
     }
   ],
@@ -64,16 +100,160 @@
       "file": "ged_math_exam_01.pdf"
     },
     {
+      "label": "GED Math Practice Exam 02",
+      "file": "ged_math_exam_02.pdf"
+    },
+    {
+      "label": "GED Math Practice Exam 03",
+      "file": "ged_math_exam_03.pdf"
+    },
+    {
+      "label": "GED Math Practice Exam 04",
+      "file": "ged_math_exam_04.pdf"
+    },
+    {
+      "label": "GED Math Practice Exam 05",
+      "file": "ged_math_exam_05.pdf"
+    },
+    {
+      "label": "GED Math Practice Exam 06",
+      "file": "ged_math_exam_06.pdf"
+    },
+    {
+      "label": "GED Math Practice Exam 07",
+      "file": "ged_math_exam_07.pdf"
+    },
+    {
+      "label": "GED Math Practice Exam 08",
+      "file": "ged_math_exam_08.pdf"
+    },
+    {
+      "label": "GED Math Practice Exam 09",
+      "file": "ged_math_exam_09.pdf"
+    },
+    {
+      "label": "GED Math Practice Exam 10",
+      "file": "ged_math_exam_10.pdf"
+    },
+    {
       "label": "GED RLA Practice Exam 01",
       "file": "ged_rla_exam_01.pdf"
+    },
+    {
+      "label": "GED RLA Practice Exam 02",
+      "file": "ged_rla_exam_02.pdf"
+    },
+    {
+      "label": "GED RLA Practice Exam 03",
+      "file": "ged_rla_exam_03.pdf"
+    },
+    {
+      "label": "GED RLA Practice Exam 04",
+      "file": "ged_rla_exam_04.pdf"
+    },
+    {
+      "label": "GED RLA Practice Exam 05",
+      "file": "ged_rla_exam_05.pdf"
+    },
+    {
+      "label": "GED RLA Practice Exam 06",
+      "file": "ged_rla_exam_06.pdf"
+    },
+    {
+      "label": "GED RLA Practice Exam 07",
+      "file": "ged_rla_exam_07.pdf"
+    },
+    {
+      "label": "GED RLA Practice Exam 08",
+      "file": "ged_rla_exam_08.pdf"
+    },
+    {
+      "label": "GED RLA Practice Exam 09",
+      "file": "ged_rla_exam_09.pdf"
+    },
+    {
+      "label": "GED RLA Practice Exam 10",
+      "file": "ged_rla_exam_10.pdf"
     },
     {
       "label": "GED Science Practice Exam 01",
       "file": "ged_science_exam_01.pdf"
     },
     {
+      "label": "GED Science Practice Exam 02",
+      "file": "ged_science_exam_02.pdf"
+    },
+    {
+      "label": "GED Science Practice Exam 03",
+      "file": "ged_science_exam_03.pdf"
+    },
+    {
+      "label": "GED Science Practice Exam 04",
+      "file": "ged_science_exam_04.pdf"
+    },
+    {
+      "label": "GED Science Practice Exam 05",
+      "file": "ged_science_exam_05.pdf"
+    },
+    {
+      "label": "GED Science Practice Exam 06",
+      "file": "ged_science_exam_06.pdf"
+    },
+    {
+      "label": "GED Science Practice Exam 07",
+      "file": "ged_science_exam_07.pdf"
+    },
+    {
+      "label": "GED Science Practice Exam 08",
+      "file": "ged_science_exam_08.pdf"
+    },
+    {
+      "label": "GED Science Practice Exam 09",
+      "file": "ged_science_exam_09.pdf"
+    },
+    {
+      "label": "GED Science Practice Exam 10",
+      "file": "ged_science_exam_10.pdf"
+    },
+    {
       "label": "GED Social Studies Practice Exam 01",
       "file": "ged_social_exam_01.pdf"
+    },
+    {
+      "label": "GED Social Studies Practice Exam 02",
+      "file": "ged_social_exam_02.pdf"
+    },
+    {
+      "label": "GED Social Studies Practice Exam 03",
+      "file": "ged_social_exam_03.pdf"
+    },
+    {
+      "label": "GED Social Studies Practice Exam 04",
+      "file": "ged_social_exam_04.pdf"
+    },
+    {
+      "label": "GED Social Studies Practice Exam 05",
+      "file": "ged_social_exam_05.pdf"
+    },
+    {
+      "label": "GED Social Studies Practice Exam 06",
+      "file": "ged_social_exam_06.pdf"
+    },
+    {
+      "label": "GED Social Studies Practice Exam 07",
+      "file": "ged_social_exam_07.pdf"
+    },
+    {
+      "label": "GED Social Studies Practice Exam 08",
+      "file": "ged_social_exam_08.pdf"
+    },
+    {
+      "label": "GED Social Studies Practice Exam 09",
+      "file": "ged_social_exam_09.pdf"
+    },
+    {
+      "label": "GED Social Studies Practice Exam 10",
+      "file": "ged_social_exam_10.pdf"
     }
   ]
 }
