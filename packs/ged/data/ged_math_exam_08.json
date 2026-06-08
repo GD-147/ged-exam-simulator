@@ -94,7 +94,7 @@
       "prompt": "Which expression is equivalent to 9 − 2(3x − 5)?",
       "choices": {
         "A": "−6x − 1",
-        "B": "−6x + 14",
+        "B": "−6x + 19",
         "C": "6x − 1",
         "D": "6x + 14"
       },
@@ -102,9 +102,9 @@
       "tiles": {},
       "targets": {},
       "correct": "B",
-      "correctAnswerText": "−6x + 14",
+      "correctAnswerText": "−6x + 19",
       "tolerance": "exact",
-      "explanation": "Distribute: 9 − 2(3x − 5) = 9 − 6x + 10 = −6x + 19. Correction: The equivalent expression is −6x + 19, which is not listed.",
+      "explanation": "Distribute: 9 − 2(3x − 5) = 9 − 6x + 10 = −6x + 19.",
       "modelAnswer": "",
       "scoringGuidance": "",
       "rubric": "",
@@ -1023,7 +1023,7 @@
       "prompt": "Which ordered pair satisfies the inequality y ≤ −x + 6?",
       "choices": {
         "A": "(1, 8)",
-        "B": "(2, 5)",
+        "B": "(2, 4)",
         "C": "(4, 4)",
         "D": "(7, 1)"
       },
@@ -1031,9 +1031,9 @@
       "tiles": {},
       "targets": {},
       "correct": "B",
-      "correctAnswerText": "(2, 5)",
+      "correctAnswerText": "(2, 4)",
       "tolerance": "exact",
-      "explanation": "Substitute (2, 5): −2 + 6 = 4, and 5 ≤ 4 is false. Correction: No listed ordered pair satisfies the inequality.",
+      "explanation": "Substitute (2, 4): −2 + 6 = 4, and 4 ≤ 4 is true.",
       "modelAnswer": "",
       "scoringGuidance": "",
       "rubric": "",

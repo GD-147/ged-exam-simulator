@@ -1195,7 +1195,7 @@
       "prompt": "A rectangular courtyard is 32 feet long and 18 feet wide. A planted strip 4 feet wide runs along the inside edge of the entire courtyard. What is the area of the planted strip?",
       "choices": {
         "A": "208 square feet",
-        "B": "320 square feet",
+        "B": "336 square feet",
         "C": "448 square feet",
         "D": "576 square feet"
       },
@@ -1203,7 +1203,7 @@
       "tiles": {},
       "targets": {},
       "correct": "B",
-      "correctAnswerText": "320 square feet",
+      "correctAnswerText": "336 square feet",
       "tolerance": "exact",
       "explanation": "The inner unplanted rectangle is 24 feet by 10 feet, with area 240 square feet. The full courtyard area is 32 × 18 = 576 square feet. The planted strip area is 576 − 240 = 336 square feet.",
       "modelAnswer": "",

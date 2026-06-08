@@ -1015,16 +1015,16 @@
       "choices": {
         "A": "(1, 0)",
         "B": "(2, 3)",
-        "C": "(3, 6)",
+        "C": "(3, 8)",
         "D": "(4, 8)"
       },
       "dropdowns": {},
       "tiles": {},
       "targets": {},
       "correct": "C",
-      "correctAnswerText": "(3, 6)",
+      "correctAnswerText": "(3, 8)",
       "tolerance": "exact",
-      "explanation": "Substitute (3, 6): 3(3) − 2 = 7, and 6 ≥ 7 is false. Correction: None of the listed ordered pairs satisfies the inequality.",
+      "explanation": "Substitute (3, 8): 3(3) − 2 = 7, and 8 ≥ 7 is true.",
       "modelAnswer": "",
       "scoringGuidance": "",
       "rubric": "",
@@ -1195,7 +1195,7 @@
       "prompt": "A rectangular pool is 25 feet long and 14 feet wide. A concrete border 3 feet wide surrounds the pool. What is the area of the concrete border?",
       "choices": {
         "A": "126 square feet",
-        "B": "234 square feet",
+        "B": "270 square feet",
         "C": "350 square feet",
         "D": "584 square feet"
       },
@@ -1203,7 +1203,7 @@
       "tiles": {},
       "targets": {},
       "correct": "B",
-      "correctAnswerText": "234 square feet",
+      "correctAnswerText": "270 square feet",
       "tolerance": "exact",
       "explanation": "The outside dimensions are 31 feet by 20 feet, so the outside area is 620 square feet. The pool area is 25 × 14 = 350 square feet. The border area is 620 − 350 = 270 square feet.",
       "modelAnswer": "",
